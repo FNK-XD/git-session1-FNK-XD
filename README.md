@@ -16,3 +16,5 @@
 [My GitHub Profile](https://github.com/FNK-XD)
 
 ![Provided Image](assets/project-banner.svg)
+
+Updated on GitHub
